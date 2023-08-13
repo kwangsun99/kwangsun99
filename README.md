@@ -1,4 +1,4 @@
-git commit --amend
+
 - 👋 Hi, I’m @kwangsun99
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning html, css, and javascript
